@@ -1,4 +1,4 @@
-# Gest-o-de-acervo
+# Gestor-de-acervo
 
 # Sobre o projeto:
 É um projeto que utilizei Next JS, tailwindcss e Shadcn ui.
